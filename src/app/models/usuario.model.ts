@@ -1,0 +1,5 @@
+export class Usuario{
+    constructor(public uid: string, public bombre: string, public email: string){
+        
+    }
+}
